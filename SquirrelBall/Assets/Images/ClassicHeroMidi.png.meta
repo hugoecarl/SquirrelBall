@@ -1,0 +1,913 @@
+fileFormatVersion: 2
+guid: cfba212771460034a985f283c946f8b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 313591084617464959
+    second: ClassicHeroMidi_0
+  - first:
+      213: 8184810951623247590
+    second: ClassicHeroMidi_1
+  - first:
+      213: 5076665665365055725
+    second: ClassicHeroMidi_2
+  - first:
+      213: 971649215092683488
+    second: ClassicHeroMidi_3
+  - first:
+      213: -7346534188607046245
+    second: ClassicHeroMidi_4
+  - first:
+      213: 8193548048465207689
+    second: ClassicHeroMidi_5
+  - first:
+      213: -8585723968173450628
+    second: ClassicHeroMidi_6
+  - first:
+      213: 786726911720834700
+    second: ClassicHeroMidi_7
+  - first:
+      213: -3696757692188414315
+    second: ClassicHeroMidi_8
+  - first:
+      213: -2980413184074001581
+    second: ClassicHeroMidi_9
+  - first:
+      213: 7055843478877013845
+    second: ClassicHeroMidi_10
+  - first:
+      213: 6581375133862900188
+    second: ClassicHeroMidi_11
+  - first:
+      213: -1807634346141418482
+    second: ClassicHeroMidi_12
+  - first:
+      213: 1412165505952676978
+    second: ClassicHeroMidi_13
+  - first:
+      213: -3426344547894927711
+    second: ClassicHeroMidi_14
+  - first:
+      213: -300126408165487726
+    second: ClassicHeroMidi_15
+  - first:
+      213: -6540277022103674020
+    second: ClassicHeroMidi_16
+  - first:
+      213: 6977715070374335839
+    second: ClassicHeroMidi_17
+  - first:
+      213: -365600220136956260
+    second: ClassicHeroMidi_18
+  - first:
+      213: -1039878354077462358
+    second: ClassicHeroMidi_19
+  - first:
+      213: 6648729206346618055
+    second: ClassicHeroMidi_20
+  - first:
+      213: 5622803488581511941
+    second: ClassicHeroMidi_21
+  - first:
+      213: 8069748319279023368
+    second: ClassicHeroMidi_22
+  - first:
+      213: -2531921306460572032
+    second: ClassicHeroMidi_23
+  - first:
+      213: 1623744640332138430
+    second: ClassicHeroMidi_24
+  - first:
+      213: 1518375476246074892
+    second: ClassicHeroMidi_25
+  - first:
+      213: 3193614135292271888
+    second: ClassicHeroMidi_26
+  - first:
+      213: 6631718083948028245
+    second: ClassicHeroMidi_27
+  - first:
+      213: -7627215866114476859
+    second: ClassicHeroMidi_28
+  - first:
+      213: 8444867579853441303
+    second: ClassicHeroMidi_29
+  - first:
+      213: -1895625250554402393
+    second: ClassicHeroMidi_0
+  - first:
+      213: 5395154116802853956
+    second: ClassicHeroMidi_1
+  - first:
+      213: -921915385997328024
+    second: ClassicHeroMidi_2
+  - first:
+      213: -8133722263591564811
+    second: ClassicHeroMidi_3
+  - first:
+      213: 166252896104471850
+    second: ClassicHeroMidi_4
+  - first:
+      213: -3710681447724421278
+    second: ClassicHeroMidi_5
+  - first:
+      213: 2530493121382456156
+    second: ClassicHeroMidi_6
+  - first:
+      213: -1324759129652549019
+    second: ClassicHeroMidi_7
+  - first:
+      213: 4058436593220015222
+    second: ClassicHeroMidi_8
+  - first:
+      213: 4126223177507562793
+    second: ClassicHeroMidi_9
+  - first:
+      213: 8605640403929091752
+    second: ClassicHeroMidi_10
+  - first:
+      213: -3258595754922240559
+    second: ClassicHeroMidi_11
+  - first:
+      213: -3470845616350303169
+    second: ClassicHeroMidi_12
+  - first:
+      213: -1713317947407019520
+    second: ClassicHeroMidi_13
+  - first:
+      213: 6372091083897433991
+    second: ClassicHeroMidi_14
+  - first:
+      213: -1382958394187814235
+    second: ClassicHeroMidi_15
+  - first:
+      213: 1517821256307364309
+    second: ClassicHeroMidi_16
+  - first:
+      213: -4125296119039622273
+    second: ClassicHeroMidi_17
+  - first:
+      213: 2724635119112058990
+    second: ClassicHeroMidi_18
+  - first:
+      213: 3059718450487408062
+    second: ClassicHeroMidi_19
+  - first:
+      213: 1136406104652073768
+    second: ClassicHeroMidi_20
+  - first:
+      213: 280618535151774220
+    second: ClassicHeroMidi_21
+  - first:
+      213: -5875601176776175427
+    second: ClassicHeroMidi_22
+  - first:
+      213: 4144121183397319265
+    second: ClassicHeroMidi_23
+  - first:
+      213: 3312215005967887518
+    second: ClassicHeroMidi_24
+  - first:
+      213: -5720867853187291363
+    second: ClassicHeroMidi_25
+  - first:
+      213: -6750438466471535626
+    second: ClassicHeroMidi_26
+  - first:
+      213: 7886356237797006611
+    second: ClassicHeroMidi_27
+  - first:
+      213: 8523676081884177068
+    second: ClassicHeroMidi_28
+  - first:
+      213: 3159103020299332080
+    second: ClassicHeroMidi_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ClassicHeroMidi_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 80
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9a179c0e261b5e0800000000000000
+      internalID: -1895625250554402393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHeroMidi_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 80
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c3580a5107fda40800000000000000
+      internalID: 5395154116802853956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHeroMidi_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 80
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86189a847d2b433f0800000000000000
+      internalID: -921915385997328024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHeroMidi_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 80
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f940f012b63f1f80800000000000000
+      internalID: -8133722263591564811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHeroMidi_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 82
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ddf2fc026ae4200800000000000000
+      internalID: 166252896104471850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHeroMidi_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 80
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fe0c122e2018cc0800000000000000
+      internalID: -3710681447724421278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHeroMidi_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 60
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b1296361e1e1320800000000000000
+      internalID: 2530493121382456156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHeroMidi_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 61
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56aaa1827928d9de0800000000000000
+      internalID: -1324759129652549019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHeroMidi_8
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 60
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674535a3496725830800000000000000
+      internalID: 4058436593220015222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHeroMidi_9
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 60
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92562574e1a434930800000000000000
+      internalID: 4126223177507562793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHeroMidi_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 61
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae41fc4a506d6770800000000000000
+      internalID: 8605640403929091752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHeroMidi_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 60
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d59349fc6427c2d0800000000000000
+      internalID: -3258595754922240559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHeroMidi_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 41
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ce73f1d4415dfc0800000000000000
+      internalID: -3470845616350303169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHeroMidi_13
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 41
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002d08587621938e0800000000000000
+      internalID: -1713317947407019520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHeroMidi_14
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 40
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fe32c74173e6850800000000000000
+      internalID: 6372091083897433991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHeroMidi_15
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 41
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa6a4feaaebecce0800000000000000
+      internalID: -1382958394187814235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHeroMidi_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 40
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1dcbe0462601510800000000000000
+      internalID: 1517821256307364309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHeroMidi_17
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 40
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f738857590100c6c0800000000000000
+      internalID: -4125296119039622273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHeroMidi_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e687a318439dfc520800000000000000
+      internalID: 2724635119112058990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHeroMidi_19
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 22
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5b20a38bd467a20800000000000000
+      internalID: 3059718450487408062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHeroMidi_20
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b4f5cc45355cf00800000000000000
+      internalID: 1136406104652073768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHeroMidi_21
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 22
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0aac192215f4e300800000000000000
+      internalID: 280618535151774220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHeroMidi_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 22
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db093682cdba57ea0800000000000000
+      internalID: -5875601176776175427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHeroMidi_23
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 24
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16291928240e28930800000000000000
+      internalID: 4144121183397319265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHeroMidi_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c2f62cff957fd20800000000000000
+      internalID: 3312215005967887518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHeroMidi_25
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17e1db7ff46b90b0800000000000000
+      internalID: -5720867853187291363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHeroMidi_26
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbd4d7eaff9152a0800000000000000
+      internalID: -6750438466471535626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHeroMidi_27
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 6
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d931ee637f17d60800000000000000
+      internalID: 7886356237797006611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHeroMidi_28
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 5
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca223317c3e2a4670800000000000000
+      internalID: 8523676081884177068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHeroMidi_29
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f92ec5957367db20800000000000000
+      internalID: 3159103020299332080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
