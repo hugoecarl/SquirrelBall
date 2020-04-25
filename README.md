@@ -1,5 +1,7 @@
 # SquirrelBall
 
+# Play Here:
+https://hugoecarl.github.io/SquirrelBall/  
 
 ## Instruções  
 
@@ -11,14 +13,23 @@
 
 - Para você encontrar todas as esferas é necessário uma busca não tão simples, existe uma esfera na esquerda do início da fase, mas é necessário coletar alguma esfera antes de buscá-la, pois para pular a água é necessário um pulo mais alto.  
 
+![Alt text](https://github.com/hugoecarl/SquirrelBall/blob/master/img/img5.png)
 
 - Existe outra esfera escondida que para obtê-la será preciso ir para parte superior da fase e cair no buraco certo entrando assim em uma parte screta da caverna.  
 
+![Alt text](https://github.com/hugoecarl/SquirrelBall/blob/master/img/img4.png)
+
 - É importante lembrar que durante o jogo existem vários blocos que são destrutíveis quando se atira neles usando a tecla "B", existe uma outra esfera escondida no canto extremo direito da fase e para chegar lá será necessário quebrar alguns blocos blocos.  
+
+![Alt text](https://github.com/hugoecarl/SquirrelBall/blob/master/img/img1.png)
 
 - Outra esfera escondida é a esfera no final do caminho natural da fase, para pegar ela será necessário pular e cair na parte inferior da fase, mas cuidado para não cair em nenhuma armadilha.  
 
+![Alt text](https://github.com/hugoecarl/SquirrelBall/blob/master/img/img2.png)
+
 - Na caverna foi colocado um easter egg que para encontrar é necessário subir na plataforma invisível na caverna ao lado do espinho que o buraco atira e entrar no meio do mapa.  
+
+![Alt text](https://github.com/hugoecarl/SquirrelBall/blob/master/img/img3.png)
 
 
 
